@@ -1,4 +1,5 @@
 <all default='en'>
+<lang id='uk' file='text_uk.xml'>Укр</lang>
 <lang id='ru' file='text_ru.xml'>Rus</lang>
 <lang id='en' file='text_en.xml'>English</lang>
 <lang id='zh' file='text_zh.xml'>中文</lang>
